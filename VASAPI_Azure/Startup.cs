@@ -101,3 +101,4 @@ namespace VASAPI_Azure
         }
     }
 }
+//test classic editor in azure devops pipeline - main branch
